@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+.navbar-ul {
+    list-style-type: none;
+    margin: -19px;
+    width: 120%;
+}
+.navbar-li{
+    padding: 10px;
+    border-right: 2px solid rgb(153, 148, 148);
+    border-bottom: 2px solid rgb(145, 138, 138);
+
+}
+ a{
+    text-decoration: none;
+    color: rgb(138, 126, 126);
+}
+#main-doc{
+    margin-left: 80px;
+}
+.main-section p {
+    color: rgb(78, 73, 73);
+}
+.main-section li {
+    color: rgb(78, 73, 73);
+}
+code{
+    background-color: #f7f7f7;
+    border-radius: 12px;
+    padding: 17px;
+    display: block;
+    margin-bottom: 10px;
+}
+#mdn-link{
+    color: blue;
+    text-decoration: underline;
+}
+
+
