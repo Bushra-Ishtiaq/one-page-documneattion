@@ -2,6 +2,9 @@ body{
     display: flex;
     flex-direction: row;
 }
+#navbar{
+    position: fixed;
+}
 .navbar-ul {
     list-style-type: none;
     margin: -19px;
@@ -18,7 +21,7 @@ body{
     color: rgb(138, 126, 126);
 }
 #main-doc{
-    margin-left: 80px;
+    margin-left: 330px;
 }
 .main-section p {
     color: rgb(78, 73, 73);
